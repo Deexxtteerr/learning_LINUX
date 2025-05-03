@@ -16,4 +16,4 @@ DISk, CPU, MEMORY
 
 Host a website using HTML CSS on Linux
 
-
+Install Nginx
